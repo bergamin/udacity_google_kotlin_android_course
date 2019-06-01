@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="yellow_star">Estrela Amarela</string>
+    <string name="app_name">Sobre Mim</string>
+    <string name="what_is_your_nickname">Qual é o teu apelido?</string>
+    <string name="done">Pronto</string>
+</resources>

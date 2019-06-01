@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="yellow_star">Желтая Звезда</string>
+    <string name="app_name">Обо Мне</string>
+    <string name="what_is_your_nickname">Какой у тебя ник?</string>
+    <string name="done">Готово</string>
+</resources>
