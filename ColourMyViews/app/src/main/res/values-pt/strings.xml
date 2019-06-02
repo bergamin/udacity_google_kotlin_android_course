@@ -1,4 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="box_one">Caixa Um</string>
+    <string name="box_five">Caixa Cinco</string>
+    <string name="box_four">Caixa Quatro</string>
+    <string name="box_three">Caixa Três</string>
+    <string name="box_two">Caixa Dois</string>
+    <string name="button_green">VERDE</string>
+    <string name="button_red">VERMELHA</string>
+    <string name="button_yellow">AMARELA</string>
 </resources>
