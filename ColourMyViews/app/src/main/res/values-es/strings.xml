@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="box_one">Caja Uno</string>
+    <string name="box_five">Caja Cinco</string>
+    <string name="box_four">Caja Cuatro</string>
+    <string name="box_three">Caja Tres</string>
+    <string name="box_two">Caja Dos</string>
+    <string name="button_green">VERDE</string>
+    <string name="button_red">ROJA</string>
+    <string name="button_yellow">AMARILLA</string>
+    <string name="how_to_play">Cómo jugar</string>
+    <string name="tap_the_boxes_and_buttons">Toque la pantalla y los botones</string>
+</resources>

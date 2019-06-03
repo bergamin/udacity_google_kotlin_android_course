@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="box_one">Scatola Uno</string>
+    <string name="box_five">Scatola Cinque</string>
+    <string name="box_four">Scatola Quattro</string>
+    <string name="box_three">Scatola Tre</string>
+    <string name="box_two">Scatola Due</string>
+    <string name="button_green">VERDE</string>
+    <string name="button_red">ROSSA</string>
+    <string name="button_yellow">GIALLA</string>
+    <string name="how_to_play">Come giocare</string>
+    <string name="tap_the_boxes_and_buttons">Tocca lo schermo e i pulsanti</string>
+</resources>

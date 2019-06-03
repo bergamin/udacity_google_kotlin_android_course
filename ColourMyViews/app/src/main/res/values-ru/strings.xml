@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="box_one">Коробка Один</string>
+    <string name="box_five">Коробка Пять</string>
+    <string name="box_four">Коробка Четыре</string>
+    <string name="box_three">Коробка Три</string>
+    <string name="box_two">Коробка Два</string>
+    <string name="button_green">ЗЕЛЁНАЯ</string>
+    <string name="button_red">КРАСНАЯ</string>
+    <string name="button_yellow">ЖЕЛТАЯ</string>
+    <string name="how_to_play">Как играть</string>
+    <string name="tap_the_boxes_and_buttons">Нажмите на экран и кнопки</string>
+</resources>
