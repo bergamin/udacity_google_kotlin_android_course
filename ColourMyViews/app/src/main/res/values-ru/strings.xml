@@ -8,4 +8,6 @@
     <string name="button_green">ЗЕЛЁНАЯ</string>
     <string name="button_red">КРАСНАЯ</string>
     <string name="button_yellow">ЖЕЛТАЯ</string>
+    <string name="how_to_play">Как играть</string>
+    <string name="tap_the_boxes_and_buttons">Нажмите на экран и кнопки</string>
 </resources>

@@ -8,4 +8,6 @@
     <string name="button_green">VERDE</string>
     <string name="button_red">ROSSA</string>
     <string name="button_yellow">GIALLA</string>
+    <string name="how_to_play">Come giocare</string>
+    <string name="tap_the_boxes_and_buttons">Tocca lo schermo e i pulsanti</string>
 </resources>
